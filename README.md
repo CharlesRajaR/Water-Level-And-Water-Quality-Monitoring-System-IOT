@@ -32,7 +32,7 @@ Access to clean and safe drinking water is a fundamental necessity, and contamin
 Here’s an image of the project simulation:
 
 ![Circuit Connection](./assets/connections.jpeg)
-![Blynk](./assets/Blynkn1.jpeg)
+![Blynk](./assets/Blynk1.jpeg)
 ![Blynk](./assets/Blynk2.jpeg)
 
 ## How to Run

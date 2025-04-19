@@ -46,6 +46,14 @@ void sendData() {
   }
 
   Serial.println("=========ULTRASONIC SENSOR OUTPUT==========");
+
+  digitalWrite(TRIG, LOW);
+  delayMicroseconds(2);
+  digitalWrite(TRIG, HIGH);
+  delayMicroseconds(10);
+  digitalWrite(TRIG, LOW);
+
+  
   int duration = pulseIn(PIN_ECHO, HIGH);
   Serial.print("Distance in CM: ");
   Serial.println(duration / 58);
