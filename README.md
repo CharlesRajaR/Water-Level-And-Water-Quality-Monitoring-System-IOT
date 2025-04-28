@@ -1,10 +1,6 @@
-# My Wokwi Simulation Project
-
-This is a simple simulation created using Wokwi. It demonstrates the working of my project with a virtual microcontroller.
-
 ## Project Overview
-- **Platform:** Wokwi
-- **Components Used:** ESP32 Microcontroller, turbity sensor, ph sensor, ultrasonic sensor
+- **Software Components used:** Ardiuno IDE Blynk Cloud and Wokwi
+- **Hardware Components Used:** ESP32 Microcontroller, turbity sensor, ph sensor, ultrasonic sensor, Lithium ion Battery, DC buck to Buck converter, LED display
 
 ## Objective
 Access to clean and safe drinking water is a fundamental necessity, and contamination of water sources can lead to severe health issues. This system utilizes water quality sensors to detect contaminants, pH levels, turbidity, and other parameters. Additionally, water level sensors ensure efficient management of supply, preventing shortages or overflows. By collecting and analyzing real-time data, This system can issue alerts to authorities and the general public when quality standards are compromised.
@@ -35,9 +31,7 @@ Here’s an image of the project simulation:
 ![Blynk](./assets/Blynk1.jpeg)
 ![Blynk](./assets/Blynk2.jpeg)
 
-## How to Run
-1. Open the project in Wokwi.
-2. Click on the **Play** button to start the simulation.
-3. Modify the code as needed.
+## Live Data
 
-## Repository Structure
+
+
