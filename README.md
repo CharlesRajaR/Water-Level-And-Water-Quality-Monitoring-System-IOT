@@ -1,5 +1,6 @@
 ## Project Overview
-- **Software Components used:** Ardiuno IDE Blynk Cloud and Wokwi
+- **Tech Stack used:** c++, javascript, react native, firebase
+- **Software Components used:** VS code, Ardiuno IDE Blynk Cloud and Wokwi
 - **Hardware Components Used:** ESP32 Microcontroller, turbity sensor, ph sensor, ultrasonic sensor, Lithium ion Battery, DC buck to Buck converter, LED display
 
 ## Objective
